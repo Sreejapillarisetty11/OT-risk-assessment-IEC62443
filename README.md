@@ -1,0 +1,1 @@
+# OT-risk-assessment-IEC62443
