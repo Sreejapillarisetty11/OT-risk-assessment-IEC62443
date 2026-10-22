@@ -26,7 +26,8 @@ Show how a structured risk analysis from automotive security (TARA according to 
 
 ## Files
 
-- `OT_Risk_Assessment_IEC62443-3-2_WDL-8.docx`: the full assessment (4 pages)
+- `OT_Risk_Assessment_IEC62443-3-2_WDL-8.pdf`: the full assessment (4 pages, version 1.1)
+- `OT_Risk_Assessment_IEC62443-3-2_WDL-8.docx`: editable Word version
 - `zones.png`: zone and conduit diagram
 
 ## Related work
